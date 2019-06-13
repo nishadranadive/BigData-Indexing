@@ -4,7 +4,7 @@ Project for Class Advance Big Data Application / Indexing
 
 # Technology Stack
 Spring Boot
-IntelliJ
+Ecllipse
 Apache Tomcat 9.0.16
 JAVA 8
 Maven
