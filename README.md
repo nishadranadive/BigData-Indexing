@@ -2,7 +2,7 @@
 
 Project for Class Advance Big Data Application / Indexing
 
-Technology Stack
+# Technology Stack
 Spring Boot
 IntelliJ
 Apache Tomcat 9.0.16
@@ -11,7 +11,8 @@ Maven
 Redis
 Postman
 Elastic Search
-Functionality
+
+# Functionality
 Rest API that can handle any structured data in Json.
 Rest API with support for crud operations, including merge support, cascaded delete.
 Rest API with support for validation.
@@ -20,12 +21,15 @@ Advanced semantics with rest API operations such as update if not changed; condi
 Storage of data in key/value store.
 Security mechanism (OAuth).
 Elastic Seach capabilities for efficient search of the data.
-Prerequisites for building and deploying our application locally
-IntellIj
+
+# Prerequisites for building and deploying our application locally
+Ecllipse
 Tomcat server
 Redis Server
 Postman client
-Build and Deploy instructions for web application
+Elastic Search
+
+# Build and Deploy instructions for web application
 Clone the repository from https://github.com/nishadranadive/Bigdata-Indexing.git
 Run the project using command mvn spring-boot:run in intellIj Terminal
 Do Crud Operations using Postman.
